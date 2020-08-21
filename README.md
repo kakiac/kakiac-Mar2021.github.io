@@ -6,7 +6,7 @@ Visit [**https://kakiac.github.io**](https://kakiac.github.io).
 
 Date                | Description
 ------------        | -------------
-2020-08-21          | Created site, inspired from [https://philippbroniecki.github.io/](https://philippbroniecki.github.io/) 
+2020-08-21          | Created site, inspired from [https://philippbroniecki.github.io/](https://philippbroniecki.github.io/) and (https://academicpages.github.io/)[https://academicpages.github.io/]
 
 
 # To Dos
