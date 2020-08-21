@@ -9,7 +9,7 @@ permalink: /
 
 ### Welcome! 
 
-I am a computational social scientist and Senior Researcher in the [ESRC Business and Local Government Data Research Centre](https://www.essex.ac.uk/centres-and-institutes/business-and-local-government-data), at the [University of Essex](https://www.essex.ac.uk). My research is driven by my fascination with all kinds of data (big/small, text/number/images) and how it can help us better understand ourselves and our society and how data can be used to improve resilience, maximise accountability and trust and reduce inequalities. Projects I work on leverage current technologies in machine learning, natural language processing and experimental behavioral study to describe the mechanisms for digital transformation in communities, businesses and the public sector and how data can be used as an enabler of a fairer, more transparent and accountable society.  
+I am a **computational social scientist** and **Senior Researcher** in the [ESRC Business and Local Government Data Research Centre](https://www.essex.ac.uk/centres-and-institutes/business-and-local-government-data), at the [University of Essex](https://www.essex.ac.uk). My research is driven by my fascination with all kinds of data (big/small, text/number/images) and how it can help us better understand ourselves and our society and how data can be used to improve resilience, maximise accountability and trust and reduce inequalities. Projects I work on leverage current technologies in machine learning, natural language processing and experimental behavioral study to describe the mechanisms for digital transformation in communities, businesses and the public sector and how data can be used as an enabler of a fairer, more transparent and accountable society.  
 
 [Read more about my adventure so far in my CV](https://kakiac.github.io/cv/) and say hi at my [Social media profiles](https://kakiac.github.io/social/)
 
@@ -17,7 +17,15 @@ I am a computational social scientist and Senior Researcher in the [ESRC Busines
 
 ## Enabling Community Resilience through Digital Transformation
 
-The elaborate coloration of many male animals has inspired biologists to study the function of elaborate male ornaments since Darwin and Wallace. That male ornaments face sexual and social selection pressures is now fundamental in evolutionary biology, but what function, if any, female ornaments serve is comparatively less known. My Ph.D. dissertation focused on a unique species of bird that varies between subspecies by female, but not male, coloration. This provides a system well suited for studying the function and physiology of female coloration. I experimentally test the function of female ornaments using controlled song and mount playback trials to free flying birds and compare the role of testosterone in mediating aggression and ornamentation between the sexes.  
+The elaborate coloration of many male animals has inspired biologists to study the function of elaborate male ornaments since Darwin and Wallace. That male ornaments face sexual and social selection pressures is now fundamental in evolutionary biology, but what function, if any, female ornaments serve is comparatively less known. My Ph.D. dissertation focused on a unique species of bird that varies between subspecies by female, but not male, coloration. This provides a system well suited for studying the function and physiology of female coloration. I experimentally test the function of female ornaments using controlled song and mount playback trials to free flying birds and compare the role of testosterone in mediating aggression and ornamentation between the sexes. 
+
+Publications:
+
+###### Reinhardt, G. Y., & <a href="https://doi.org/10.1080/03003930.2019.1573729">Chatsiou, K.</a> (2019). Using community education interventions to build resilience and avert crises: How accidental dwelling fires decreased in Essex County, UK. Local Government Studies, 0(0), 1–19. https://doi.org/10.1080/03003930.2019.1573729
+
+###### Chamberlain, Jon and Turpin, Benjamin and Maged, Ali and <a href="http://repository.essex.ac.uk/27515/">Chatsiou, Aikaterini</a> and O'Callaghan, Kirsty (2020) 'Designing for Collective Intelligence and Community Resilience on Social Networks.' Human Computation. ISSN 2330-8001 (In Press). http://repository.essex.ac.uk/27515/
+
+
 
 <h1>Welcome</h1>
 	<p style="text-align:justify">I am a political scientist and Senior Research Officer (postdoc) at the <a href="https://www.blgdataresearch.org/">ESRC Business and Local Government Data Research Centre</a> at University of Essex.</p>
