@@ -18,7 +18,7 @@ minimal_mistakes_skin: mint
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Kakia Chatsiou
+title: Dr. Kakia Chatsiou
 title separator: " ~ "
 email: achats@essex.ac.uk
 url: "https://kakiac.github.io"
@@ -65,7 +65,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Kakia Chatsiou"
+  name   : "Dr. Kakia Chatsiou"
   avatar : "https://www1.essex.ac.uk/people-images/CHATS23303.jpg"
   bio    : "Senior Research Officer at the ESRC Business and Local Government Data Research Centre"
   location : Suffolk, UK
@@ -137,6 +137,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-  
-  
-  
+
+
+
