@@ -9,13 +9,13 @@ permalink: /
 
 ### Welcome! 
 
-I am an evolutionary biologist and Postdoctoral Researcher in Genomics and Bioinformatics in [Leif Andersson’s lab](https://www.uu.se/en/news-media/researcher-profiles/leif-andersson/) at [Uppsala University](http://www.uu.se/en). My research is driven by my fascination with biodiversity and the evolutionary processes that generate diversity in wild populations. Projects I work on leverage current technologies in genomic sequencing and experimental behavioral study to describe the mechanisms that maintain population and trait diversity through natural, social, and sexual selection processes. These projects span a diverse range of organisms. 
+I am a computational social scientist and Senior Researcher in the [ESRC Business and Local Government Data Research Centre](https://www.essex.ac.uk/centres-and-institutes/business-and-local-government-data), at the [University of Essex](https://www.essex.ac.uk). My research is driven by my fascination with all kinds of data (big/small, text/number/images) and how it can help us better understand ourselves and our society and how data can be used to improve resilience, maximise accountability and trust and reduce inequalities. Projects I work on leverage current technologies in machine learning, natural language processing and experimental behavioral study to describe the mechanisms for digital transformation in communities, businesses and the public sector and how data can be used as an enabler of a fairer, more transparent and accountable society.  
 
-[Link to my CV](https://erikenbody.github.io/enbody-cv/) and my [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=3bBANnkAAAAJ)
+[Read more about my adventure so far in my CV](https://kakiac.github.io/cv/) and say hi at my [Social media profiles](https://kakiac.github.io/social/)
 
-## Evolution of female ornamentation in the White-shouldered Fairywren
+## Enabling Community Resilience through Digital Transformation
 
-<img src="/assets/images/duet2.jpg" width="700">
+<img src="assets/images/LinkedIn Header - Clean Work Place .png" width="1000">
 
 The elaborate coloration of many male animals has inspired biologists to study the function of elaborate male ornaments since Darwin and Wallace. That male ornaments face sexual and social selection pressures is now fundamental in evolutionary biology, but what function, if any, female ornaments serve is comparatively less known. My Ph.D. dissertation focused on a unique species of bird that varies between subspecies by female, but not male, coloration. This provides a system well suited for studying the function and physiology of female coloration. I experimentally test the function of female ornaments using controlled song and mount playback trials to free flying birds and compare the role of testosterone in mediating aggression and ornamentation between the sexes.  
 
