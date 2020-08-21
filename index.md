@@ -22,9 +22,9 @@ The elaborate coloration of many male animals has inspired biologists to study t
 
 #### Publications: <!-- Publications, Datasets, Tools/Resources, Talks/Webinars/Teaching, Software, Policy Briefs -->
 
-###### Reinhardt, G. Y., & <a href="https://doi.org/10.1080/03003930.2019.1573729">Chatsiou, K.</a> (2019). Using community education interventions to build resilience and avert crises: How accidental dwelling fires decreased in Essex County, UK. Local Government Studies, 0(0), 1–19. https://doi.org/10.1080/03003930.2019.1573729
+####### Reinhardt, G. Y., & <a href="https://doi.org/10.1080/03003930.2019.1573729">Chatsiou, K.</a> (2019). Using community education interventions to build resilience and avert crises: How accidental dwelling fires decreased in Essex County, UK. Local Government Studies, 0(0), 1–19. https://doi.org/10.1080/03003930.2019.1573729
 
-###### Chamberlain, Jon and Turpin, Benjamin and Maged, Ali and <a href="http://repository.essex.ac.uk/27515/">Chatsiou, Aikaterini</a> and O'Callaghan, Kirsty (2020) 'Designing for Collective Intelligence and Community Resilience on Social Networks.' Human Computation. ISSN 2330-8001 (In Press). http://repository.essex.ac.uk/27515/
+####### Chamberlain, Jon and Turpin, Benjamin and Maged, Ali and <a href="http://repository.essex.ac.uk/27515/">Chatsiou, Aikaterini</a> and O'Callaghan, Kirsty (2020) 'Designing for Collective Intelligence and Community Resilience on Social Networks.' Human Computation. ISSN 2330-8001 (In Press). http://repository.essex.ac.uk/27515/
 
 
 
@@ -41,12 +41,12 @@ Textual data represents rich information, but lacks structure and requires speci
 
 #### Publications: <!-- Publications, Datasets, Tools/Resources, Talks/Webinars/Teaching, Software, Policy Briefs -->
 
-###### <a href="http://dx.doi.org/10.4135/9781526486387.n58">Chatsiou, K.</a> & Mikhaylov, S. (2020). Deep learning for political science. In L. Curini & R. Franzese The SAGE handbook of research methods in political science and international relations (Vol. 2, pp. 1053-1078). 55 City Road, London: SAGE Publications Ltd doi: [http://dx.doi.org/10.4135/9781526486387.n58](http://dx.doi.org/10.4135/9781526486387.n58)
+####### <a href="http://dx.doi.org/10.4135/9781526486387.n58">Chatsiou, K.</a> & Mikhaylov, S. (2020). Deep learning for political science. In L. Curini & R. Franzese The SAGE handbook of research methods in political science and international relations (Vol. 2, pp. 1053-1078). 55 City Road, London: SAGE Publications Ltd doi: [http://dx.doi.org/10.4135/9781526486387.n58](http://dx.doi.org/10.4135/9781526486387.n58)
 
 #### Datasets:
 
-###### UNDP HDR corpus
-###### COVID-19 Press Briefings Corpus
+####### UNDP HDR corpus
+####### COVID-19 Press Briefings Corpus
 
 
 
