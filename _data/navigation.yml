@@ -14,9 +14,9 @@ main:
   
   - title: "Posts"
     #url: /posts/
-    children:
-     - title: "Categories"
-       url: /categories/
+   # children:
+  - title: "Categories"
+    url: /categories/
      
   
  
