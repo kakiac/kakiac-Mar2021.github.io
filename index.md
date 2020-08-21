@@ -27,6 +27,10 @@ The elaborate coloration of many male animals has inspired biologists to study t
 ###### Chamberlain, Jon and Turpin, Benjamin and Maged, Ali and <a href="http://repository.essex.ac.uk/27515/">Chatsiou, Aikaterini</a> and O'Callaghan, Kirsty (2020) 'Designing for Collective Intelligence and Community Resilience on Social Networks.' Human Computation. ISSN 2330-8001 (In Press). http://repository.essex.ac.uk/27515/
 
 
+
+
+
+
 ## Using Text Data mining to study Political Discourse
 
 <img src="assets/images/13.png" width="1000">
@@ -46,6 +50,22 @@ Textual data represents rich information, but lacks structure and requires speci
 
 
 
+
+
+
+
+
+## Developing methods to evaluate, target and monitor preventative inteventions
+
+<img src="assets/images/12.png" width="1000">
+
+Models and statistical methods for the analysis of local government health and social care data will be developed alongside new data mining and machine learning algorithms to identify intervention subgroups, and new joint modelling methods to improve existing predictive models with a view to evaluate, target and monitor the provision of care.
+
+
+
+
+
+## Building Capacity in advanced data skills in charities, local authorities and businesses
 
 
 
