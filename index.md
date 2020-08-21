@@ -13,8 +13,6 @@ I am a **computational social scientist** and **Senior Researcher** in the [ESRC
 
 [Read more about my adventure so far in my CV](https://kakiac.github.io/cv/) and say hi at my [Social media profiles](https://kakiac.github.io/social/)
 
-
-
 ## Enabling Community Resilience through Digital Transformation
 
 <img src="assets/images/11.png" width="1000">
@@ -22,11 +20,31 @@ I am a **computational social scientist** and **Senior Researcher** in the [ESRC
 
 The elaborate coloration of many male animals has inspired biologists to study the function of elaborate male ornaments since Darwin and Wallace. That male ornaments face sexual and social selection pressures is now fundamental in evolutionary biology, but what function, if any, female ornaments serve is comparatively less known. My Ph.D. dissertation focused on a unique species of bird that varies between subspecies by female, but not male, coloration. This provides a system well suited for studying the function and physiology of female coloration. I experimentally test the function of female ornaments using controlled song and mount playback trials to free flying birds and compare the role of testosterone in mediating aggression and ornamentation between the sexes. 
 
-Publications:
+#### Publications: <!-- Publications, Datasets, Tools/Resources, Talks/Webinars/Teaching, Software, Policy Briefs -->
 
 ###### Reinhardt, G. Y., & <a href="https://doi.org/10.1080/03003930.2019.1573729">Chatsiou, K.</a> (2019). Using community education interventions to build resilience and avert crises: How accidental dwelling fires decreased in Essex County, UK. Local Government Studies, 0(0), 1–19. https://doi.org/10.1080/03003930.2019.1573729
 
 ###### Chamberlain, Jon and Turpin, Benjamin and Maged, Ali and <a href="http://repository.essex.ac.uk/27515/">Chatsiou, Aikaterini</a> and O'Callaghan, Kirsty (2020) 'Designing for Collective Intelligence and Community Resilience on Social Networks.' Human Computation. ISSN 2330-8001 (In Press). http://repository.essex.ac.uk/27515/
+
+
+## Using Text Data mining to study Political Discourse
+
+<img src="assets/images/13.png" width="1000">
+
+ <!-- to rewrite -->
+Textual data represents rich information, but lacks structure and requires specialist techniques to be mined and linked properly as well as to reason with and make useful correlations. I have been using Python and R for extracting entities, relations between them, opinions and other elements to support semantic indexing and visualisation and anonymisation.
+
+
+#### Publications: <!-- Publications, Datasets, Tools/Resources, Talks/Webinars/Teaching, Software, Policy Briefs -->
+
+###### <a href="http://dx.doi.org/10.4135/9781526486387.n58">Chatsiou, K.</a> & Mikhaylov, S. (2020). Deep learning for political science. In L. Curini & R. Franzese The SAGE handbook of research methods in political science and international relations (Vol. 2, pp. 1053-1078). 55 City Road, London: SAGE Publications Ltd doi: [http://dx.doi.org/10.4135/9781526486387.n58](http://dx.doi.org/10.4135/9781526486387.n58)
+
+#### Datasets:
+
+###### UNDP HDR corpus
+###### COVID-19 Press Briefings Corpus
+
+
 
 
 
