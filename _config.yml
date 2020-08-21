@@ -28,7 +28,7 @@ description: ">- Senior Research Officer at the ESRC Business and Local Governme
 breadcrumbs: true
 words_per_minute : 200
 
-twitter_username: kakiac
+twitter_username: @kakiac
 github_username: kakiac
 
 search: true
@@ -82,13 +82,13 @@ author:
   #  - label: "Instagram"
   #    icon: "fab fa-fw fa-instagram"
   #    url: "https://instagram.com/kakia.c"
-  links:  
-    - label: "Google Maps"
-      icon: "fas fa-fw fa-thumbtack fa-lg"
-      url: https://www.google.com/maps/search/Block+C,+Unit+2+Parkside+Nesfield+Road+University+of+Essex+Wivenhoe+Park+Colchester+Essex+CO4+3SQ/@51.8798427,0.9416097,17z
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope fa-lg"
-      url: mailto:philipp.broniecki@essex.ac.uk
+ ## links:  
+ ##   - label: "Google Maps"
+ ##     icon: "fas fa-fw fa-thumbtack fa-lg"
+ ##     url: https://www.google.com/maps/search/Block+C,+Unit+2+Parkside+Nesfield+Road+University+of+Essex+Wivenhoe+Park+Colchester+Essex+CO4+3SQ/@51.8798427,0.9416097,17z
+ ##   - label: "Email"
+ ##     icon: "fas fa-fw fa-envelope fa-lg"
+ ##    url: mailto:philipp.broniecki@essex.ac.uk
 
 
 
