@@ -23,7 +23,7 @@ title separator: " ~ "
 email: "achats@essex.ac.uk"
 url: "https://kakiac.github.io"
 # this means to ignore newlines until "baseurl:"
-description: ">- Senior Research Officer at the ESRC Business and Local Government Data Research Centre"
+description: ">- Senior Research Officer at the <a href="http://essex.ac.uk" target=_blank>ESRC Business and Local Government Data Research Centre</a>"
 
 breadcrumbs: true
 words_per_minute : 200
