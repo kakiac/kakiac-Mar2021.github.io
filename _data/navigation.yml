@@ -11,7 +11,7 @@ main:
     url: /cv/
   
   - title: "Posts"
-    url: /posts/
+    #url: /posts/
     children:
      - title: "Categories"
        url: /categories/
