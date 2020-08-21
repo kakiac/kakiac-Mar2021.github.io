@@ -15,7 +15,7 @@ I am a computational social scientist and Senior Researcher in the [ESRC Busines
 
 ## Enabling Community Resilience through Digital Transformation
 
-<img src="assets/images/LinkedIn Header - Clean Work Place .png" width="1000">
+<img src="assets/images/9.png" width="1000">
 
 The elaborate coloration of many male animals has inspired biologists to study the function of elaborate male ornaments since Darwin and Wallace. That male ornaments face sexual and social selection pressures is now fundamental in evolutionary biology, but what function, if any, female ornaments serve is comparatively less known. My Ph.D. dissertation focused on a unique species of bird that varies between subspecies by female, but not male, coloration. This provides a system well suited for studying the function and physiology of female coloration. I experimentally test the function of female ornaments using controlled song and mount playback trials to free flying birds and compare the role of testosterone in mediating aggression and ornamentation between the sexes.  
 
