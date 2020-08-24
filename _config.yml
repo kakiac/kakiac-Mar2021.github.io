@@ -69,7 +69,7 @@ author:
   name   : "Dr. Kakia Chatsiou"
   avatar : "https://www1.essex.ac.uk/people-images/CHATS23303.jpg"
   bio    : "Senior Research Officer <br> at the <a style='color: black;' style='text-decoration: underline;' href='http://www.blgdataresearch.org/'>ESRC Business and Local Government Data Research Centre</a>"
-  location : "Suffolk, UK"
+#  location : "Suffolk, UK"
   links:
     - label: "Website"
       #icon: "fab fa-fw fa-link"
