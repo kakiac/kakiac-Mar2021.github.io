@@ -98,8 +98,8 @@ plugins:
 author:
   name: "Your Name"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "I am an **amazing** person." # Note: Markdown is allowed
-  location: "Somewhere"
+  bio: "I am a Senior Research Officer <br> at the <a style='color: black;' style='text-decoration: underline;' href='http://www.blgdataresearch.org/'>ESRC Business and Local Government Data Research Centre</a>" # Note: Markdown is allowed
+  location: "Suffolk, UK"
   links:
     - label: "Made Mistakes"
       icon: "fas fa-fw fa-link"
