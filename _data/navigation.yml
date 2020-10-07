@@ -1,21 +1,23 @@
 main:
-  - title: "About me"
-    url: /aboutme/
-  - title: "About"
-    url: /about/
+#  - title: "About me"
+#    url: /aboutme/
+#  - title: "About"
+#    url: /about/
   - title: "Research"
     url: /research/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "CV"
-    url: /cv/
-  - title: "Tags"
-    url: /_pages/tag-archive/
-  - title: "Posts"
+  - title: "Talks"
+    url: /talks/
+#  - title: "Teaching"
+#    url: /teaching/
+#  - title: "CV"
+#    url: /cv/
+#  - title: "Tags"
+#    url: /_pages/tag-archive/
+#  - title: "Posts"
     #url: /posts/
    # children:
-  - title: "Categories"
-    url: /categories/
+#  - title: "Categories"
+#    url: /categories/
      
   
  
