@@ -3,5 +3,5 @@ permalink: /talks/
 title: "Talks"
 ---
 
-## "Innovating with open data, an untapped resource" (2020-10-07, webinar)
-slides
+## "Open Data: what can it do for you?" (2020-10-07, webinar)
+[slides](/talks/20201007_BLG_OpenData.pdf)
