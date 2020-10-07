@@ -15,7 +15,7 @@ My research is driven by my fascination with all kinds of data (big/small, text/
 
 Projects I work on leverage current technologies in machine learning, natural language processing and experimental behavioral study to describe the mechanisms for digital transformation in communities, businesses and the public sector and how data can be used as an enabler of a fairer, more transparent and accountable society.
 
-[Read more about my adventure so far in my CV](https://kakiac.github.io/cv/) and say hi at my [Social media profiles](https://kakiac.github.io/social/)
+#[Read more about my adventure so far in my CV](https://kakiac.github.io/cv/) and say hi at my [Social media profiles](https://kakiac.github.io/social/)
 
 ## Research
 
