@@ -97,7 +97,7 @@ plugins:
 
 author:
   name: "Welcome!"
-  avatar: "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/bio-photo2.jpg"
   bio: "I am a Senior Research Officer <br> at the <a style='color: black;' style='text-decoration: underline;' href='http://www.blgdataresearch.org/'>ESRC Business and Local Government Data Research Centre</a>" # Note: Markdown is allowed
   location: "Suffolk, UK"
   links:
@@ -106,13 +106,13 @@ author:
       url: "https://mademistakes.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
+      url: "https://twitter.com/kakiac"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
+      url: "https://github.com/kakiac"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://instagram.com/kakia.c"
 
 
 
