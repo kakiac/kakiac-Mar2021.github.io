@@ -16,9 +16,10 @@ title: "Talks"
 | [slides](../assets/talks/20201007_BLG_OpenData.pdf)
 
 ### Create your data strategy
-(2020-08-05, webinar)
+(2020-08-05, webinar) 
+| [slides](../assets/talks/20201007_BLG_OpenData.pdf)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KCRyJUFkUTg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-| [slides](../assets/talks/20201007_BLG_OpenData.pdf)
+
 
