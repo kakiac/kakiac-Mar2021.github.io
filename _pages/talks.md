@@ -11,7 +11,7 @@ title: "Talks"
 
 ### The art of data visualisation
 (2020-11-18, BLG Data webinar)
-| [slides](../assets/talks/)
+| [slides](../assets/talks/20201118_BLG_DataVisualisation.pdf)
 
 
 ### One word embedding to rule them all: Political Text classification using CNNs
