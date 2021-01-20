@@ -2,17 +2,24 @@
 permalink: /talks/
 title: "Talks"
 ---
+
+### Social Return on Investment (SROI): Demonstrating your organisation's value
+(2021-01-13, BLG Data webinar)
+| [slides](../assets/talks/20210113_BLG_SROI.pdf)
+| [feedback survey](https://bit.ly/BLGSROI)
+
 ### Conducting a Data Audit and Creating your Data strategy
 (2020-11-19, Health Information Governance Group)
 | [slides](../assets/talks/20201119_HealthIGG_DataStrategyAudit.pdf)
 | [Data Audit worksheet](https://bit.ly/BLGDataAudit)
 | [Data Strategy worksheet](https://bit.ly/BLGDataStrategy)
 
-
 ### The art of data visualisation
 (2020-11-18, BLG Data webinar)
 | [slides](../assets/talks/20201118_BLG_DataVisualisation.pdf)
 | [feedback survey](https://bit.ly/BLGVisualisationSurvey)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vkPVj08Wz-c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### One word embedding to rule them all: Political Text classification using CNNs
 (2020-10-09, Natural Language and Information Processing Group, University of Essex)
