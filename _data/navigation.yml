@@ -18,6 +18,8 @@ main:
    # children:
 #  - title: "Categories"
 #    url: /categories/
+  - title: "News"
+    url: /news/
      
   
  
