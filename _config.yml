@@ -101,11 +101,15 @@ author:
   bio: "I am a Senior Research Officer <br> at the <a style='color: black;' style='text-decoration: underline;' href='http://www.blgdataresearch.org/'>ESRC Business and Local Government Data Research Centre</a>" # Note: Markdown is allowed
   location: "Suffolk, UK"
   links:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/kakia.c"
-
-
+    - label: "Google Maps"
+      icon: "fas fa-fw fa-thumbtack fa-lg"
+      url: https://www.google.no/maps/place/Eilert+Sundts+hus,+Blokk+A/@59.9413684,10.7228715,17z/data=!3m1!4b1!4m5!3m4!1s0x46416de6cf21a27d:0xf17934de93697b79!8m2!3d59.9413657!4d10.7250602
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope fa-lg"
+      url: mailto:philipp.broniecki@essex.ac.uk
+    - label: "Website"
+      icon: "fas fa-fw fa-link fa-lg"
+      # url: "https://your-website.com"
 
 # Site Footer
 footer:
